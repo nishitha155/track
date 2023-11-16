@@ -245,6 +245,10 @@ const TrackProducts = ({ state }) => {
                     <p>{selectedProduct.expireDate}</p>
                   </div>
                   <div className="content-item">
+                    <span className="content-label">Packaging material:</span>
+                    <p>{selectedProduct.packagingMaterial}</p>
+                  </div>
+                  <div className="content-item">
                     <span className="content-label">Processing Method:</span>
                     <p>{selectedProduct.processingMethod}</p>
                   </div>
