@@ -177,8 +177,8 @@ const Purchased_RawMaterials = ({ state }) => {
                   <p>{selectedProduct.location}</p>
                 </div>
                 <div className="content-item">
-                <span className="content-label">Cultivation Practices:</span>
-                  <p>{selectedProduct.cultivationPractices}</p>
+                <span className="content-label">Id:</span>
+                  <p>{selectedProduct.id}</p>
                 </div>
                 <div className="content-item">
                   <span className="content-label">Pesticides:</span>
