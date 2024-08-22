@@ -1,8 +1,11 @@
-# React + Vite
+# Green your Everyday
+- Traking life cycle of organic products
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+- Developed a DApp using Web3.0 for tracking lifecycle of products from farmer to customer.
+- Integrated with Meta mask for interactions between farmers, manufacturers, customers.
+- Utilized Solidity to implement smart contracts, ensuring transparency and trust in the supply chain.
+- Used sepolia test ethers for payments between the users and ReactJs, CSS for visually appealing interfac
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Video Demonstration
+https://github.com/user-attachments/assets/dec602b0-b7c1-4dde-a67b-4af4d07445b5
